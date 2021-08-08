@@ -4,6 +4,23 @@ Math Game on Adafruit MacroPad built with CircuitPython
 - Download to Adafruit MacroPad to try!
 - Include necessary libs
 
+## How to Play
+
+```
+Key Layout
+1 2 3
+4 5 6
+7 8 9
+< 0 >
+
+Title: Press > to start new game
+Game:
+Enter answer, then press > to submit
+Press < to erase.
+
+Gameover: Press > to go back to title screen
+```
+
 ## Title Screen
 
 ```
